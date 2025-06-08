@@ -56,18 +56,6 @@ body {
       "Lucida Sans", Arial, sans-serif;
   }
   
-  .rodape img {
-    width: 200px;
-  }
-  
-  .end {
-    margin-top: 45px;
-  }
-  
-  .end p {
-    color: black;
-  }
-  
   .a {
     display: flex;
     gap: 90px;
