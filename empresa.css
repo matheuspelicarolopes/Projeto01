@@ -47,11 +47,11 @@ body {
     color: #f2eee7;
   }
   /* -----------------------------------Rodapé---------------------------------------------- */
-  .rodape {
+.rodape {
   background-color: #f2eee7;
   display: flex;
   justify-content: center;
-  margin-top: 150px;
+  margin-top: 300px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
 }
