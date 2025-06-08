@@ -48,25 +48,11 @@ body {
   }
   
   /* -----------------------------------Rodapé---------------------------------------------- */
-  .rodape {
-    background-color: #f2eee7;
-    display: flex;
-    align-items: center;
-    margin-top: 50px;
-    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-      "Lucida Sans", Arial, sans-serif;
-  }
-  
-  .rodape img {
-    width: 200px;
-  }
-  
-  .end {
-    margin-top: 45px;
-    color: black;
-  }
-  
-  .a {
-    display: flex;
-    gap: 90px;
-  }
+ .rodape {
+  background-color: #f2eee7;
+  display: flex;
+  justify-content: center;
+  margin-top: 150px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
